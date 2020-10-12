@@ -1,7 +1,7 @@
 # Modified Pix2Pix architecture for StarCraft video remastering in PyTorch
 
 Contributors:
-Sandeep Kumar Remani, Sreeranjani Didugu
+Sreeranjani Didugu, Sandeep Kumar Remani
 
 We would like to sincerely thank the authors of Pix2Pix for using their open-sourced source code in PyTorch. 
 
